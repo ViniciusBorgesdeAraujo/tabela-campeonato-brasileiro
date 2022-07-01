@@ -1,0 +1,197 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    border: 1px solid #DDDDDD;
+    height: 785px;
+    width: 640px;
+    margin: auto;       
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.grupo {
+    color: #003366;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.grupo2 {
+    color: #1398BE;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.sulamericana {
+    color: #DE9800;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.rebaixamento {
+    color: #C91B04;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.none {
+    color: #CCCCCC;
+    font-size: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+
+thead {
+    height: 30px;
+    font-size: 13px;
+    color: #999999;
+    font-weight: bold;
+    text-align: center;
+}
+
+.times {
+    font-size: 14px;
+    color: #666666;
+    text-align: left;
+    width: 250px;
+    font-weight: bold;
+}
+
+.pontos {
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.jogos,
+.vitorias,
+.empates,
+.derrotas,
+.golsPro,
+.golsContra,
+.saldoDeGols,
+.aproveitamento {
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+}
+
+.legendas {
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid #DDDDDD;
+    padding: 10px 10px 0px 10px;
+}
+
+.siglas {
+    padding: 5px 10px 10px 10px;
+}
+
+.span1 {
+    font-size: 10px;
+    color: #8F8F8F;
+    text-align: left;
+}
+
+.span2 {
+    font-size: 10px;
+    color: #555555;
+    font-weight: bold;
+    text-align: left;
+}
+
+.span3 {
+    font-size: 10px;
+    color: #555555;
+    text-align: left;
+}
+
+.libertadoresColor {
+    background-color: #003366;
+    border-radius: 20%;
+    height: 10px;
+    width: 10px;
+    border: 1px solid black
+}
+
+.preLibertadoresColor {
+    background-color: #1398BE;
+    border-radius: 20%;
+    height: 10px;
+    width: 10px;
+    border: 1px solid black
+}
+
+.sulAmericanaColor {
+    background-color: #DE9800;
+    border-radius: 20%;
+    height: 10px;
+    width: 10px;
+    border: 1px solid black
+}
+
+.rebaixamentoColor {
+    background-color: #C91B04;
+    border-radius: 20%;
+    height: 10px;
+    width: 10px;
+    border: 1px solid black
+}
+
+.siglas {
+    display: flex;
+    flex-direction: row;
+    font-size: 10px;
+    color: #555555;
+    font-weight: bold;
+    text-align: left;
+}
+
+.pontos,
+.vitorias,
+.derrotas,
+.golsContra,
+.aproveitamento {
+    background-color: #F7F7F7;
+}
+
+
+th {
+    height: 30px;
+    width: 45px;
+}
+
+tr {
+    height: 35px;
+    width: 30px;
+}
+
+
+tbody td {
+    border-top: 1px solid #DDDDDD;
+}
+
+#especial {
+    border-top: 2px solid #CCCCCC;
+}
+
+.table2 {
+    padding: 10px;
+    border-top: 1px solid #DDDDDD;
+}
+
+.aproveitamento {
+    width: 40px;
+}
+
+
+
+
